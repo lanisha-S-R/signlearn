@@ -1,0 +1,98 @@
+{
+ "A": {
+  "sheet_p_true": 0.0,
+  "sheet_pred": "R"
+ },
+ "B": {
+  "sheet_p_true": 0.955,
+  "sheet_pred": "B"
+ },
+ "C": {
+  "sheet_p_true": 0.58,
+  "sheet_pred": "C"
+ },
+ "D": {
+  "sheet_p_true": 0.999,
+  "sheet_pred": "D"
+ },
+ "E": {
+  "sheet_p_true": 1.0,
+  "sheet_pred": "E"
+ },
+ "F": {
+  "sheet_p_true": 1.0,
+  "sheet_pred": "F"
+ },
+ "G": {
+  "sheet_p_true": 0.002,
+  "sheet_pred": "T"
+ },
+ "H": {
+  "sheet_p_true": 0.792,
+  "sheet_pred": "H"
+ },
+ "I": {
+  "sheet_p_true": 0.998,
+  "sheet_pred": "I"
+ },
+ "K": {
+  "sheet_p_true": 0.837,
+  "sheet_pred": "K"
+ },
+ "L": {
+  "sheet_p_true": 0.994,
+  "sheet_pred": "L"
+ },
+ "M": {
+  "sheet_p_true": 0.103,
+  "sheet_pred": "E"
+ },
+ "N": {
+  "sheet_p_true": 0.077,
+  "sheet_pred": "X"
+ },
+ "O": {
+  "sheet_p_true": 0.002,
+  "sheet_pred": "E"
+ },
+ "P": {
+  "sheet_p_true": 0.045,
+  "sheet_pred": "Q"
+ },
+ "Q": {
+  "sheet_p_true": 1.0,
+  "sheet_pred": "Q"
+ },
+ "R": {
+  "sheet_p_true": 0.0,
+  "sheet_pred": "U"
+ },
+ "S": {
+  "sheet_p_true": 0.986,
+  "sheet_pred": "S"
+ },
+ "T": {
+  "sheet_p_true": 1.0,
+  "sheet_pred": "T"
+ },
+ "U": {
+  "sheet_p_true": 0.789,
+  "sheet_pred": "U"
+ },
+ "V": {
+  "sheet_p_true": 0.997,
+  "sheet_pred": "V"
+ },
+ "W": {
+  "sheet_p_true": 0.999,
+  "sheet_pred": "W"
+ },
+ "X": {
+  "sheet_p_true": 0.389,
+  "sheet_pred": "G"
+ },
+ "Y": {
+  "sheet_p_true": 0.005,
+  "sheet_pred": "I"
+ }
+}
